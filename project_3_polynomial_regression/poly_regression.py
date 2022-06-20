@@ -1,7 +1,7 @@
 
 
 
-# Step 1 - Load Data
+# Cargar datos
 import pandas as pd
 dataset = pd.read_csv("Position_Salaries.csv")
 X = dataset.iloc[:, 1:2].values
