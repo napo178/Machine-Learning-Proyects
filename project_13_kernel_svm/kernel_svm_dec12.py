@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 12 20:53:27 2018
 
-@author: omairaasim
-"""
 
 import pandas as pd
 dataset = pd.read_csv("iphone_purchase_records.csv")

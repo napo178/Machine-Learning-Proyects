@@ -1,10 +1,4 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep  8 08:49:06 2019
 
-@author: omairaasim
-"""
 
 # Step 1 : Load Dataset 
 import pandas as pd

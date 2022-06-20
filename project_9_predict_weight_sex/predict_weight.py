@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep  9 07:41:20 2019
 
-@author: omairaasim
-"""
 
 # Step 1 - Load data
 import pandas as pd
